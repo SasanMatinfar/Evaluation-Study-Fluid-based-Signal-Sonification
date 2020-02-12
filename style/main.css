@@ -98,12 +98,8 @@ h1.title {
 
 .above-grid{
   margin: auto;
-<<<<<<< HEAD
   width: 500px; }
-=======
-  width: 50%; }
->>>>>>> f0764b656ed94555570e5ffbf0c730f87ba046ff
- 
+  
 a {
   margin-top: 0px;
   width: 25%;
@@ -120,11 +116,7 @@ hr {
   margin-bottom: 30px; }
 
 .container {
-<<<<<<< HEAD
   width: 100%;
-=======
-  width: 200%;
->>>>>>> f0764b656ed94555570e5ffbf0c730f87ba046ff
   margin: 0;
   margin-left: 0px;
   display: flex; }
@@ -566,38 +558,22 @@ hr {
 
 .heading{
   margin: auto;
-<<<<<<< HEAD
   width: 500px;
-=======
-  width: 50%;
->>>>>>> f0764b656ed94555570e5ffbf0c730f87ba046ff
 }
 
 .above-game{
   margin: auto;
-<<<<<<< HEAD
   width: 500px;
-=======
-  width: 50%;
->>>>>>> f0764b656ed94555570e5ffbf0c730f87ba046ff
 }
 
 .game-container{
   margin: auto;
-<<<<<<< HEAD
   width: 500px;
-=======
-  width: 50%;
->>>>>>> f0764b656ed94555570e5ffbf0c730f87ba046ff
 }
 
 .game-explanation{
   margin: auto;
-<<<<<<< HEAD
   width: 500px;
-=======
-  width: 50%;
->>>>>>> f0764b656ed94555570e5ffbf0c730f87ba046ff
   margin-top: 20px;
 }
 @media screen and (max-width: 520px) {
@@ -835,17 +811,10 @@ hr {
   display: inline-block;
   font-size: 16px;
   margin: auto;
-<<<<<<< HEAD
   width: 500px;
   position: absolute;
   top: 50%;
   left: 650px;
-=======
-  width: 50%;
-  position: absolute;
-  top: 50%;
-  left: 25%;
->>>>>>> f0764b656ed94555570e5ffbf0c730f87ba046ff
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
